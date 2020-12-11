@@ -1,0 +1,10 @@
+||buzzvids-direct.com^	5
+/adx.$domain=~adx.co.nz|~adx.cx|~adx.nz|~adx.ru|~adx.traveledge.com|~adx.tribefire.com|~adx.uk.com|~adx.world|~adx.wowfi.com|~journals.uchicago.edu	1
+||nehodyshy.pro^	1
+||wautoosa.net^	1
+||new-incoming.email^	1
+||exe.io^	4
+||zazerygu.pro^	1
+://utm.$domain=~utm.arc.nasa.gov|~utm.edu|~utm.io|~utm.md|~utm.pansa.pl|~utm.pharos360.com|~utoronto.ca	2
+||eacdn.com^	1
+||terra8nb.com^	1

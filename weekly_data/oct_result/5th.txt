@@ -1,0 +1,2 @@
+/static/advertising/*	2
+||narrativ.com^$third-party	1

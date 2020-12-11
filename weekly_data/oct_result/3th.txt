@@ -1,0 +1,8 @@
+/adlink-	5
+||lologhfd.com^	1
+/adx.$domain=~adx.business|~adx.co.nz|~adx.cx|~adx.nz|~adx.ru|~adx.traveledge.com|~adx.tribefire.com|~adx.uk.com|~adx.world|~adx.wowfi.com|~journals.uchicago.edu	1
+||jutyledu.pro^	1
+||ijjiii.is^$third-party	1
+||apprefaculty.pro^	1
+||appstoore.online^	1
+/adlink/*	5
